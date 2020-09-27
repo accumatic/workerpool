@@ -1,13 +1,14 @@
 {
-  "name": "workerpool",
+  "name": "@philippmalkov/workerpool",
   "license": "Apache-2.0",
   "version": "6.0.1-accu.0",
   "description": "Offload tasks to a pool of workers on node.js and in the browser",
-  "homepage": "https://github.com/josdejong/workerpool",
+  "homepage": "https://github.com/philippmalkov/workerpool",
   "author": "Jos de Jong <wjosdejong@gmail.com> (https://github.com/josdejong)",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
-    "url": "git://github.com/josdejong/workerpool.git"
+    "url": "git://github.com/philippmalkov/workerpool.git"
   },
   "keywords": [
     "worker",
