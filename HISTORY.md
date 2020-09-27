@@ -1,6 +1,11 @@
 # workerpool history
 https://github.com/josdejong/workerpool
 
+## 2020-09-27, version 6.0.1-accu.0
+
+- Added stdout and stderr options. Thanks @philippmalkov.
+
+
 ## 2020-09-23, version 6.0.1
 
 - Removed examples from the npm package. Thanks @madbence.
